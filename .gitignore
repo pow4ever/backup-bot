@@ -1,0 +1,19 @@
+# Archivos de entorno
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
