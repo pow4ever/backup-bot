@@ -1,6 +1,5 @@
 # Archivos de entorno
 .env
-.env.*
 
 # Python
 __pycache__/
